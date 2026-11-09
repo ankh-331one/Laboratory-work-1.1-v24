@@ -4,7 +4,8 @@
 
 Написать приведённую формулу по правилам языка программирования.
 
-24. y = 1.0/3 * pow(exp(6.3+sqrt(x)),1.0/7)*fabs(cos(2.0*x/3)-x);
+24. <img width="164" height="45" alt="image" src="https://github.com/user-attachments/assets/d697b7a3-0e69-401c-86b6-6733eba7f955" />
+
 
 
 
